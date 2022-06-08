@@ -21,6 +21,6 @@
 </br>
 <div>
   <a align="center" alt="Gui-HTML" height="30" width="40" href="https://www.instagram.com/oferreiradiogo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a align="center" alt="Gui-HTML" height="30" width="40" href = "mailto:diogo0254jf@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diogo0254jf@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" alt="Gui-HTML" height="30" width="40" href="https://www.linkedin.com/in/diogo-ferreira-399641101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
