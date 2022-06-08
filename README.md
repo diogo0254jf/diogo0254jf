@@ -1,4 +1,4 @@
-<h1>Olá ! Meu nome é Diogo Costa </h1>
+<div style="height: 0; padding-bottom: calc(6.54%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/629fee69141a14007e408c82?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
 
 - 👨‍🎓 Atualmente estudante de Analise e Desenvolvimento de Sistemas 
 - 🌱 Estou aprendendo Python,React,Automaçoes,C ...
@@ -25,34 +25,3 @@
   <a href = "mailto:diogo0254jf@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-ferreira-399641101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<style>
-.typewriter {
-    font-family: 'Anonymous Pro', monospace;
-    width: 70%;  
-  }
-  h1 {
-    overflow: hidden;
-    margin: 0 auto;
-    display: inline-block;
-        font-weight: normal;
-
-  }
-  h1:after{
-   content: '';
-    display: inline-block;
-    background-color: white;
-    margin-left: 2px;
-    height: 25px;
-    width: 4px;
-    animation: cursor 0.4s infinite;
-  }
-
-  /* The typewriter cursor effect */
-  @keyframes cursor {
-    0% { opacity: 1; }
-      49% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 0; }
-  }
-</style>
