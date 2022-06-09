@@ -1,8 +1,8 @@
 <h1>Olá! Meu nome é Diogo Costa!!!</h1>
 
 - 👨‍🎓 Atualmente estudante de Analise e Desenvolvimento de Sistemas 
-- 🌱 Estou aprendendo Python,React,Automaçoes,C ...
-- 📫 Email : diogo0254jf@gmail.com ...
+- 🌱 Estou aprendendo Python, React ...
+- 📫 Email : diogo0254jf@gmail.com
 
 <div align="center">
   <a href="https://github.com/diogo0254jf">
