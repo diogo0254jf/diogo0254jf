@@ -22,10 +22,9 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img alt="Gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <svg height="30" width="40" viewBox="0 0 448 512">
-     <style>svg{fill:#e4002c}</style>
-     <path d="M185.7 268.1h76.2l-38.1-91.6-38.1 91.6zM223.8 32L16 106.4l31.8 275.7 176 97.9 176-97.9 31.8-275.7zM354 373.8h-48.6l-26.2-65.4H168.6l-26.2 65.4H93.7L223.8 81.5z"/>
-  </svg>
+  <img alt="Gui-Angular" align="cente" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2752246-2285063.png">
+  
+  
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <img height="30" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" />&nbsp;
   <img height="30" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
