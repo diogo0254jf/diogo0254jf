@@ -19,10 +19,10 @@
   <img alt="Gui-HTML" 
      height="30"
      width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Gui-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Gui-Angular" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-3-226070.png?f=avif&w=256">&nbsp;&nbsp;&nbsp;
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img alt="Gui-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;
+  <img alt="Gui-Angular" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-3-226070.png?f=avif&w=256">&nbsp;&nbsp;
   
   
   <img height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
